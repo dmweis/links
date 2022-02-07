@@ -1,10 +1,15 @@
 body {
   font-family: Open Sans, Arial;
-  color: #454545;
-  font-size: 16px;
-  margin: 2em auto;
-  max-width: 800px;
-  padding: 1em;
-  line-height: 1.4;
-  text-align: justify;
+  margin: 40px auto;
+  max-width: 650px;
+  line-height: 1.6;
+  font-size: 18px;
+  color: #444;
+  padding: 0 10px;
+}
+
+h1,
+h2,
+h3 {
+  line-height: 1.2;
 }
